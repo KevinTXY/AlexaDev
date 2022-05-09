@@ -1,5 +1,2 @@
 # AlexaDev
-Just some Alexa skills
-
-
-This repository contains the json and js files for all my alexa apps, individually separated. 
+Just some Alexa skills I wrote when I was first learning to code. Dug them up and archived them here for sentimental reasons. 
